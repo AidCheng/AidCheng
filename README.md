@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-This is Aiden, a wolf developer
+This is Aiden (or Jager), a developer and a Furry wolf 🐺
 
-I use - **Go, Rust, Python and C++**
-I develop - **Image Processing, Graphics, Machine Learning and Backend**
-I study @ University College London
-I work @ Chinese Academy of Sciences
+- I use 🔧 - **Go, Rust, Python and C++**
+- I develop 💻 - **Image Processing, Graphics, Machine Learning and Backend**
+I study 🏫 @ University College London
+I work 💼 @ Chinese Academy of Sciences
 <!--
 **AidCheng/AidCheng** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
