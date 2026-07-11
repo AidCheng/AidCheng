@@ -3,9 +3,9 @@
 This is Aiden (or Jager), a developer and a Furry wolf 🐺
 
 - 🔧 I use **Python, Rust, Go, Java and C++**
-- 💻 I built with **Image Processing, Graphics, Machine Learning and Backend**
-- 🏫 I study @ University College London
-- 💼 I work @ Chinese Academy of Sciences
+- 💻 I research in **Gaussian Splatting, Image Processing and Computer Graphics**
+- 🏫 I study @ University College London / University of Cambridge
+- 💼 I work @ Cloudflare, Inc / Complight Laboratory
 <!--
 **AidCheng/AidCheng** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
